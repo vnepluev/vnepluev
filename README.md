@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there! I'm Frontend Developer
 
-### I love coding Telegram bots and SPA sites
+### I love coding Telegram bots and SPA
 
 <a target="_blank" href="https://www.instagram.com/travelstory4you/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
