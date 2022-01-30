@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## 🏄 My Hobbies
 - ⛵ I’m love yachting (skipper)
 - 📷 Professional photographer 😊
-- 🐎 Horses
+- 🐎 Horse riding
 
 ## ⚙️ Tech Skills
 <table>
