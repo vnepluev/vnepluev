@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vnepluev/vnepluev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there! I'm Valeriy V Nepluev
+# 👋 Hi there! I'm Frontend Developer
 
 ### I love coding Telegram bots and SPA sites
 
-## ⚙️ My Tech Skills
+<a target="_blank" href="https://www.instagram.com/travelstory4you/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://t.me/mrgreen2020">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+</a>
+<br>
+
+## 🏆 Now
+- 🎓 Working on my business projects and find work
+- 🔭 I’m currently working on telegram Sofia Bot and Yacht site
+- 🌱 Learning JS, Vue and Node.js
+
+## 🏄 Soft Skills
+- ⛵ I’m love yachting (skipper)
+- 📷 Professional photographer 😊
+
+## ⚙️ Tech Skills
 <table>
   <tr>
     <td align="center" width="96">
@@ -42,9 +57,8 @@ Here are some ideas to get you started:
       <br>Node.js<br>⭐️<br>
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="MySQL" />
-      <br>MySQL<br>⭐️<br>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="Databases" />
+      <br>DB<br>⭐️<br>
     </td>
-    
   </tr>
 </table>
