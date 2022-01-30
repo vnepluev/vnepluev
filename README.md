@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🏄 My Hobbies
 - ⛵ I’m love yachting (skipper)
-- 📷 Professional photographer 😊
+- 📷 Professional photographer
 - 🐎 Horse riding
 
 ## ⚙️ Tech Skills
