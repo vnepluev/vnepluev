@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on telegram Sofia Bot and Yacht site
 - 🌱 Learning JS, Vue and Node.js
 
-## 🏄 Soft Skills
+## 🏄 My Hobbies
 - ⛵ I’m love yachting (skipper)
 - 📷 Professional photographer 😊
 
