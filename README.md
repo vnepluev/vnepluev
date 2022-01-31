@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there! I'm Frontend Developer
+# 👋 Hi There! I'm Frontend Developer
 
-### I love coding Telegram bots and SPA
+### I Love Coding SPA and Telegram Bots
 
 <a target="_blank" href="https://www.instagram.com/travelstory4you/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
