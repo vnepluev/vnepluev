@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ### I Love Coding SPA and Telegram Bots
 
 <a target="_blank" href="https://www.instagram.com/travelstory4you/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" />
 </a>
 <a target="_blank" href="https://t.me/mrgreen2020">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111644.png" />
 </a>
-<br>
+<br><br>
 
 ## 🏆 Now
 - 🎓 Working on my business projects and find work
