@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 Learning JS, Vue and Node.js
 
 ## 🏄 My Hobbies
-- ⛵ I’m love yachting (skipper)
+- ⛵ Yachting (skipper)
 - 📷 Professional photographer
 - 🐎 Horse riding
 
@@ -38,28 +38,36 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="96">
+        <img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width="48" height="48" alt="HTML" />
+      <br>HTML<br>
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn-icons-png.flaticon.com/128/888/888847.png" width="48" height="48" alt="CSS" />
+      <br>CSS<br>
+    </td>
+    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript<br>⭐️⭐️⭐️<br>
+      <br>JavaScript<br>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript<br>⭐️<br>
+      <br>TypeScript<br>
     </td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
-      <br>Vue<br>⭐️⭐️⭐️<br>
+      <br>Vue<br>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48" height="48" alt="Git" />
-      <br>Git<br>⭐️⭐️<br>
+      <br>Git<br>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node.js" />
-      <br>Node.js<br>⭐️<br>
+      <br>Node.js<br>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="Databases" />
-      <br>DB<br>⭐️<br>
+      <br>DB<br>
     </td>
   </tr>
 </table>
