@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🏆 Now
 - 🎓 Working on my business projects and find work
-- 🔭 I’m currently working on telegram Sofia Bot and Yacht site
+- 🔭 I’m currently working
 - 🌱 Learning JS, Vue and Node.js
 
 ## 🏄 My Hobbies
